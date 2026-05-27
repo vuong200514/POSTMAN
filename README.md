@@ -5,11 +5,11 @@
 | Field | Value |
 |---|---|
 | Project Name | REST API Testing Practice |
-| Tester | [Your Name] |
+| Tester | Vương |
 | Tool | Postman |
 | API Type | REST API |
 | Test Type | Manual API Testing |
-| Date | [Testing Date] |
+| Date | 27/5 |
 
 ---
 
