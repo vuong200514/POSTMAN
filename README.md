@@ -81,7 +81,7 @@ Lab7
 
 ### Screenshot
 
-![Create Collection](https://example.com/create-collection.png)
+![Create Collection](img/taocol.png)
 
 ---
 
@@ -95,7 +95,7 @@ JSONPlaceholder
 
 ### Screenshot
 
-![Create Environment](https://example.com/create-environment.png)
+![Create Environment](img/taoEnviroment.png)
 
 ---
 
@@ -107,7 +107,7 @@ JSONPlaceholder
 
 ### Screenshot
 
-![Add Variable](https://example.com/add-variable.png)
+![Add Variable](img/taoEnviroment.png)
 
 ---
 
@@ -117,7 +117,7 @@ Environment được gắn vào workspace để sử dụng biến `{{baseUrl}}`
 
 ### Screenshot
 
-![Attach Environment](https://example.com/attach-environment.png)
+![Attach Environment](img/taoreqthemev.png)
 
 ---
 
@@ -161,7 +161,7 @@ pm.test("Status code is 200", function () {
 
 ### Screenshot
 
-![GET Test](https://example.com/test-get.png)
+![GET Test](img/testGET.png)
 
 ---
 
@@ -198,7 +198,7 @@ pm.test("Status code is 201", function () {
 
 ### Screenshot
 
-![POST Test](https://example.com/test-post.png)
+![POST Test](img/TestPOST.png)
 
 ---
 
@@ -236,7 +236,7 @@ pm.test("PUT success", function () {
 
 ### Screenshot
 
-![PUT Test](https://example.com/test-put.png)
+![PUT Test](img/testPUT.png)
 
 ---
 
@@ -263,7 +263,7 @@ pm.test("DELETE success", function () {
 
 ### Screenshot
 
-![DELETE Test](https://example.com/test-delete.png)
+![DELETE Test](img/testDELETE.png)
 
 ---
 
@@ -307,7 +307,7 @@ pm.test("API should not crash", function () {
 
 ### Screenshot
 
-![GET Huge ID](https://example.com/test-huge-id.png)
+![GET Huge ID](img/testGetIDlon.png)
 
 ---
 
@@ -330,7 +330,7 @@ Kiểm thử API với ID âm.
 
 ### Screenshot
 
-![GET Negative ID](https://example.com/test-negative-id.png)
+![GET Negative ID](img/testGETIDAM.png)
 
 ---
 
@@ -362,7 +362,7 @@ http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=Hanoi
 
 ### Screenshot
 
-![Weather API](https://example.com/weather-api.png)
+![Weather API](img/testAPIthoitiet.png)
 
 ---
 
@@ -386,7 +386,7 @@ Toàn bộ collection được chạy bằng Collection Runner.
 
 ### Screenshot
 
-![Collection Runner](https://example.com/full-run.png)
+![Collection Runner](img/RunFULLTEST.png)
 
 ---
 
